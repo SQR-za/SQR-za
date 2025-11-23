@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Title -->
-  <h1>Greatings, I'm Saqr (SQR-az) 👋</h1>
+  <h1>Greatings, I'm Saqr (SQR-za) 👋</h1>
 
   <p>
     Computer Science Student · Cybersecurity & AI Enthusiast · Building tools, automations & web experiences
@@ -53,14 +53,14 @@
 
   <!-- Main stats card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SQR-az&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
-    alt="SQR-az GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SQR-za&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+    alt="SQR-za GitHub Stats"
     height="180"
   />
 
   <!-- Top languages card -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SQR-az&layout=compact&langs_count=8&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SQR-za&layout=compact&langs_count=8&theme=radical"
     alt="Top Languages"
     height="180"
   />
@@ -76,7 +76,7 @@
   <!-- Streak stats -->
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=SQR-az&theme=radical&hide_border=false"
+      src="https://streak-stats.demolab.com/?user=SQR-za&theme=radical&hide_border=false"
       alt="GitHub Streak"
     />
   </a>
@@ -86,8 +86,8 @@
   <!-- Activity graph (heatmap style) -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=SQR-az&theme=github-compact"
-      alt="SQR-az's GitHub activity graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SQR-za&theme=github-compact"
+      alt="SQR-za's GitHub activity graph"
     />
   </a>
 
@@ -95,8 +95,8 @@
 
   <!-- Contributions chart (full-year style heatmap) -->
   <img
-    src="https://ghchart.rshah.org/SQR-az"
-    alt="SQR-az's GitHub contributions chart"
+    src="https://ghchart.rshah.org/SQR-za"
+    alt="SQR-za's GitHub contributions chart"
   />
 
 </div>
@@ -120,7 +120,7 @@
 
 ## 📫 Connect
 
-- 🐙 GitHub: [SQR-az](https://github.com/SQR-az)
+- 🐙 GitHub: [SQR-za](https://github.com/SQR-za)
 
 <!-- Add more when you're ready:
 - 💼 LinkedIn: ...
