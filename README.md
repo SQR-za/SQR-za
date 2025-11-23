@@ -1,69 +1,128 @@
-<h2 align="left">Greetings gentlemen they call me SQR as S, Q, R <br>Nothing else to share see you.</h2>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SQR-za&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SQR-za&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <!-- Title -->
+  <h1>Greatings, I'm Saqr (SQR-az) 👋</h1>
+
+  <p>
+    Computer Science Student · Cybersecurity & AI Enthusiast · Building tools, automations & web experiences
+  </p>
+
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=SQR-az&style=flat-square&color=blue" alt="Profile views" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
+## 🚀 About Me
 
-###
+- 🎓 CS student focusing on **cybersecurity**, **AI**, and **backend / tooling**.
+- 🧠 Interested in combining **AI + security + automation** (Linux, HTB, scripting).
+- 🧰 I'm building:
+  - Web templates (2D / 3D)
+  - Obsidian student and productivity-daily systems
+  - Small Java / JavaFX and Python projects for learning & fun
+- 🌍 Based in Saudi Arabia 🇸🇦
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-</div>
+---
 
-###
+## 🧰 Tech Stack
 
-<div align="left">
-  <a href="https://www.instagram.com/sqr.za/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,linux,docker"
+      alt="My Skills"
+    />
   </a>
-  <a href="sqraz777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</p>
+
+- **Main languages:** Python, C++, Java, JavaScript / TypeScript  
+- **Topics I care about:**  
+  - Cybersecurity (Linux, networking basics, CTFs, Hack The Box)  
+  - AI & automation (APIs, LLMs, simple agents)  
+  - Web (Next.js, React, Tailwind CSS)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Main stats card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SQR-az&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+    alt="SQR-az GitHub Stats"
+    height="180"
+  />
+
+  <!-- Top languages card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SQR-az&layout=compact&langs_count=8&theme=radical"
+    alt="Top Languages"
+    height="180"
+  />
+
+</div>
+
+---
+
+## 🔥 Streak & Activity Heatmap
+
+<div align="center">
+
+  <!-- Streak stats -->
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=SQR-az&theme=radical&hide_border=false"
+      alt="GitHub Streak"
+    />
   </a>
+
+  <br /><br />
+
+  <!-- Activity graph (heatmap style) -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SQR-az&theme=github-compact"
+      alt="SQR-az's GitHub activity graph"
+    />
+  </a>
+
+  <br /><br />
+
+  <!-- Contributions chart (full-year style heatmap) -->
+  <img
+    src="https://ghchart.rshah.org/SQR-az"
+    alt="SQR-az's GitHub contributions chart"
+  />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🧩 What I’m Currently Playing With
 
-<img src="https://raw.githubusercontent.com/SQR-za/SQR-za/output/snake.svg" alt="Snake animation" />
+- 🛡️ **Cybersecurity**  
+  - Arch Linux, networking, basic exploitation
+  - HTB labs and other online platforms
 
-###
+- 🤖 **AI & Automation**  
+  - Python scripts to automate boring stuff
+  - Playing with AI APIs, chatbots, and security-related ideas
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SQR-za/count.svg?"  />
-</div>
+- 🌐 **Web Projects**  
 
-###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif"  />
-</div>
+---
 
-###
+## 📫 Connect
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SQR-za/count.svg?"  />
-</div>
+- 🐙 GitHub: [SQR-az](https://github.com/SQR-az)
 
-###
-
-<img src="https://raw.githubusercontent.com/SQR-za/SQR-za/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Add more when you're ready:
+- 💼 LinkedIn: ...
+- 📝 Portfolio: ...
+-->
