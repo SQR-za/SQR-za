@@ -78,7 +78,7 @@ A Java desktop application for browsing parking locations, calculating reservati
 <div align="center">
 
   <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SQR-za&theme=github_dark"
     alt="SQR-za GitHub statistics"
     height="180"
   />
