@@ -21,8 +21,7 @@
 - 🎓 Computer Science student at the University of Jeddah.
 - 🌍 Based in Saudi Arabia.
 - 🧠 Interested in artificial intelligence, cybersecurity, automation, and practical software projects.
-- 🛠️ I am still learning. This profile documents my progress rather than claiming professional mastery.
-- 🌱 My current goal is to strengthen my programming foundations and turn what I learn into useful projects.
+- 🌱 My current goal is to make cool useful projects.
 
 ---
 
@@ -51,13 +50,13 @@
 ## Selected Projects
 
 ### StudyFlow
-
-An offline-friendly study application with multiple-choice flashcards, spaced repetition, daily study planning, and mock exams. Built as a Progressive Web App using HTML, CSS, and JavaScript.
+**Personal project**
+An offline-friendly study application with multiple-choice flashcards, spaced repetition, daily study planning, and mock exams. Built with ai to extract quistions from books, slides and anything else.
 
 [Live website](https://sqr-za.github.io/studyflow/) · [GitHub repository](https://github.com/SQR-za/studyflow)
 
 ### Smart Parking Finder
-
+**Course OOP2 project**
 A Java desktop application for browsing parking locations, calculating reservation costs, and managing reservations. It uses JavaFX for the interface and SQLite for local data storage.
 
 [GitHub repository](https://github.com/SQR-za/smart-parcking-finder)
