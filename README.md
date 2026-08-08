@@ -64,12 +64,11 @@ A Java desktop application for browsing parking locations, calculating reservati
 
 ---
 
-## What I Am Learning Now
+## What I Am Doing Now
 
-- Improving my Java and Python foundations through practice.
-- Starting from the basics in JavaScript and web development.
-- Learning AI fundamentals and experimenting with AI-agent workflows.
-- Building practical Linux and cybersecurity skills.
+- studying for security+
+- playing Bandit from overthewire currently in level 14
+- Making fully ai assystant with hermes on my homelap with local llm and linking it with all services I have and 
 
 ---
 
