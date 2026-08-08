@@ -78,13 +78,13 @@ A Java desktop application for browsing parking locations, calculating reservati
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SQR-za&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SQR-za&theme=github_dark"
     alt="SQR-za GitHub statistics"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SQR-za&layout=compact&langs_count=8&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SQR-za&theme=github_dark"
     alt="Languages used in SQR-za repositories"
     height="180"
   />
